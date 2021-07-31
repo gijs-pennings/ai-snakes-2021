@@ -147,7 +147,7 @@ public final class State implements Runnable {
         // metric: win/loss/draw
         if ((flags & M_A_DEAD) > 0)
             if ((flags & M_B_DEAD) > 0)
-                return (as <= bs ? -1 : 1) * (H_WIN + depth);
+                return (as == bs) ? (H_DRAW - depth) : (as < bs ? -1 : 1) * (H_WIN + depth);
             else
                 return -(H_WIN + depth);
         else if ((flags & M_B_DEAD) > 0)

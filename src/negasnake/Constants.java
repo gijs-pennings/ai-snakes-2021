@@ -29,6 +29,7 @@ public final class Constants {
     public static final int DEP_MAX           =            32;
 
     public static final int H_WIN             =    10_000_000;
+    public static final int H_DRAW            =    -9_999_900;
     public static final int H_LONGER          =        10_000;
     public static final int H_APPLE_REACHABLE =         3_000;
     public static final int H_POS_CENTER      =         2_000;
