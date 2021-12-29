@@ -106,7 +106,7 @@ public final class State implements Runnable {
         }
 
         // 2b. lower quadrants follow by symmetry
-        for (int y = m ; y < size; y++)
+        for (int y = m; y < size; y++)
             System.arraycopy(posScore, (size-1-y)*size, posScore, y*size, size);
 
         // 3. rescale

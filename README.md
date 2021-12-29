@@ -1,6 +1,6 @@
 # AI Snakes 2021: NegaSnake
 
-This repository contains the [source code](src/negasnake) of NegaSnake, the bot I developed in association with [Serpentine](https://serpentine.ai) for [AI Snakes 2021](https://agrishchenko.wixsite.com/aisnakes2021). It finished 1st, with a win rate of 87%. 🎉
+This repository contains the source code of [NegaSnake](src/negasnake), the bot I developed in association with [Serpentine](https://serpentine.ai) for [AI Snakes 2021](https://agrishchenko.wixsite.com/aisnakes2021). A detailed [log](results2021.txt) of the final competition is also included. Here, NegaSnake is named "Serpentine". It finished 1st, with a win rate of 87% 🎉
 
 For setting up your workspace, refer to the [original instructions](src/snakes/README.md). 
 
@@ -37,13 +37,13 @@ A final noteworthy aspect of NegaSnake's strategy, unrelated to the search, is i
 - Currently, the transposition table only caches scores from depths of ≤12 ply (note that a ternary tree of this height can already contain ~800k nodes). Consequently, at greater depths, moves cannot be ordered. Instead of storing *all* scores up to some depth, it should store the 'most important' scores from the whole search tree. This can be achieved using [replacement strategies](https://www.chessprogramming.org/Transposition_Table#Replacement_Strategies).
 - Alpha-beta pruning can be replaced by a more efficient search algorithm, such as [PVS](https://en.wikipedia.org/wiki/Principal_variation_search). The [principal variation](https://en.wikipedia.org/wiki/Variation_(game_tree)#Principal_variation) is easily determined from the (improved) transposition table. Another option is completely replacing the search by a [Monte Carlo tree search](https://en.wikipedia.org/wiki/Monte_Carlo_tree_search), possibly in combination with a neural network (see last point).
 - Instead of immediately evaluating the position if `depth == 0`, you could first perform a [quiescence search](https://en.wikipedia.org/wiki/Quiescence_search) that, for example, continues while either snake must make a forced move. This extends the search in dangerous or promising situations.
-- If the apple recently repositioned, the positioning feature is calculated at a relatively great depth, where there any many nodes. Since BFSs are quite costly performance-wise, the search is usually interrupted before having finished, leaving the bot vulnerable at specific moments during a match. This weakness can be mitigated by using a fast approximation in these scenarios. One option is to approximate the number of squares using [Voronoi cells](https://en.wikipedia.org/wiki/Voronoi_diagram) centered at the snakes' heads, ignoring obstacles. Their area is efficiently calculated using the [shoelace formula](https://en.wikipedia.org/wiki/Shoelace_formula).
+- If the apple recently repositioned, the positioning feature is calculated at a relatively great depth, where there are many nodes. Since BFSs are quite costly performance-wise, the search is usually interrupted before having finished, leaving the bot vulnerable at specific moments during a match. This weakness can be mitigated by using a fast approximation in these scenarios. One option is to approximate the number of squares using [Voronoi cells](https://en.wikipedia.org/wiki/Voronoi_diagram) centered at the snakes' heads, ignoring obstacles. Their area is efficiently calculated using the [shoelace formula](https://en.wikipedia.org/wiki/Shoelace_formula).
 - The [weights](src/negasnake/Constants.java) (and features themselves!) used in the evaluation function are based on intuition. Optimizing these would increase NegaSnake's strength. This can be done either manually, by having bots with different parameters compete and keeping the best, or using machine learning. Alternatively, the evaluation can be completely computed using a neural network, à la [Stockfish](https://stockfishchess.org/blog/2020/introducing-nnue-evaluation).
 
 
 ## Acknowledgments
 
-NegaSnake was developed within E.S.A.I.V. Serpentine. Special thanks to my teammates Boris Muller, Tunahan Sarı, and Imre Schilstra.
+NegaSnake was developed within E.S.A.I.V. Serpentine. Special thanks to my teammates Boris Muller, Tunahan Sarı, and Imre Schilstra. Parts of this text are excerpts from sections I wrote for a report published by Serpentine. 
 
 
 ## License

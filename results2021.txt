@@ -1,0 +1,2933 @@
+Loaded bot.
+Loaded class name: d_kabirov.D_kabirov
+Loaded bot.
+Loaded class name: mike_python.MikePython
+Loaded bot.
+Loaded class name: team_sos.Mongoose
+Loaded bot.
+Loaded class name: thunder.Thunder
+Loaded bot.
+Loaded class name: thunder2020.Thunder2020
+Loaded bot.
+Loaded class name: evan.Evan
+Loaded bot.
+Loaded class name: erase_the_resistance.O_favour
+Loaded bot.
+Loaded class name: iman_hosseini.XG
+Loaded bot.
+Loaded class name: bishe_vora_nagin.UasBot
+Loaded bot.
+Loaded class name: ravinder.JordanBot
+Loaded bot.
+Loaded class name: ravinder.KoffiTeamBot
+Loaded bot.
+Loaded class name: serpentine.Serpentine
+
+Tournament iteration number 0
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 86.914)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 163.765)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.251)
+Thunder vs UasBot : 1 - 0 (Time taken: 39.792)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 2.526)
+Evan vs O_favour : 1 - 0 (Time taken: 103.875)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 36.327)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 153.897)
+MikePython vs UasBot : 1 - 0 (Time taken: 25.77)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 4.97)
+Round time left (180seconds) 
+
+Thunder vs O_favour : 1 - 0 (Time taken: 181.295)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.308)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 102.769)
+2.
+2.
+2.
+2.
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 75.31)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 3.383)
+MikePython vs O_favour : 0 - 1 (Time taken: 27.686)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.751)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.57)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 52.749)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 2.676)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 70.812)
+Serpentine vs Evan : 1 - 0 (Time taken: 107.65)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.14)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.06)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 2.566)
+UasBot vs O_favour : 0 - 1 (Time taken: 68.19)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 0 (Time taken: 181.269)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 50.525)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 0 - 1 (Time taken: 181.515)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.8)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 71.819)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 2.232)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 31.651)
+JordanBot vs Thunder : 0 - 1 (Time taken: 153.377)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 84.716)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.648)
+D_kabirov vs Evan : 1 - 0 (Time taken: 73.798)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 151.361)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 2.549)
+UasBot vs Mongoose : 0 - 1 (Time taken: 162.705)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 0 - 0 (Time taken: 181.335)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 18.749)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 20.51)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.286)
+O_favour vs Mongoose : 0 - 1 (Time taken: 81.868)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.369)
+UasBot vs Serpentine : 0 - 1 (Time taken: 21.555)
+2.
+2.
+2.
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 181.315)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder : 0 - 0 (Time taken: 181.304)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.053)
+Evan vs MikePython : 0 - 1 (Time taken: 110.72)
+O_favour vs Serpentine : 0 - 1 (Time taken: 113.52)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.203)
+UasBot vs JordanBot : 0 - 1 (Time taken: 171.881)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 181.755)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 0 - 0 (Time taken: 181.547)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.148)
+2.
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 64.386)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 1 - 0 (Time taken: 181.156)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.609)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 85.864)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.769)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 116.714)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 13.481)
+Evan vs UasBot : 1 - 0 (Time taken: 58.555)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 2.837)
+D_kabirov earned: 5
+MikePython earned: 5
+Mongoose earned: 7
+Thunder earned: 9
+Thunder2020 earned: 9
+Evan earned: 4
+O_favour earned: 5
+XG earned: 0
+UasBot earned: 1
+JordanBot earned: 5
+KoffiTeamBot earned: 2
+Serpentine earned: 10
+
+Tournament iteration number 1
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 55.193)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 24.281)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 181.99)
+Thunder vs UasBot : 1 - 0 (Time taken: 59.075)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 3.931)
+Evan vs O_favour : 0 - 1 (Time taken: 75.607)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 59.171)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.658)
+MikePython vs UasBot : 1 - 0 (Time taken: 24.083)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 4.104)
+Thunder vs O_favour : 1 - 0 (Time taken: 106.479)
+Thunder2020 vs Evan : 1 - 0 (Time taken: 148.958)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 74.095)
+KoffiTeamBot vs UasBot : 0 - 1 (Time taken: 14.659)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 3.992)
+MikePython vs O_favour : 1 - 0 (Time taken: 30.486)
+Mongoose vs Evan : 0 - 0 (Time taken: 179.834)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.555)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 50.735)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 2.427)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 19.269)
+Round time left (180seconds) 
+
+Serpentine vs Evan : 1 - 0 (Time taken: 181.375)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.41)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.063)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 4.34)
+UasBot vs O_favour : 0 - 1 (Time taken: 42.727)
+JordanBot vs Evan : 0 - 1 (Time taken: 173.796)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 103.244)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.533)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 1 - 0 (Time taken: 181.585)
+D_kabirov vs O_favour : 0 - 1 (Time taken: 22.274)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.276)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 60.672)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 181.042)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 76.166)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.441)
+D_kabirov vs Evan : 0 - 1 (Time taken: 40.917)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 132.896)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.742)
+UasBot vs Mongoose : 0 - 1 (Time taken: 59.038)
+JordanBot vs MikePython : 0 - 1 (Time taken: 44.563)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 30.047)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 90.422)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.287)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 0 - 1 (Time taken: 181.725)
+MikePython took too long to make a decision
+XG vs MikePython : 1 - 0 (Time taken: 3.837)
+UasBot vs Serpentine : 0 - 1 (Time taken: 25.314)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 170.27)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 137.516)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.064)
+Evan vs MikePython : 1 - 0 (Time taken: 142.543)
+O_favour vs Serpentine : 0 - 1 (Time taken: 102.897)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.48)
+UasBot vs JordanBot : 0 - 1 (Time taken: 80.251)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 181.749)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.325)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 182.38)
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 91.23)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 1 - 0 (Time taken: 181.116)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 3.278)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 35.226)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 182.55)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 127.08)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 140.821)
+Evan vs UasBot : 1 - 0 (Time taken: 93.468)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.689)
+D_kabirov earned: 4
+MikePython earned: 6
+Mongoose earned: 7
+Thunder earned: 8
+Thunder2020 earned: 8
+Evan earned: 5
+O_favour earned: 6
+XG earned: 2
+UasBot earned: 2
+JordanBot earned: 4
+KoffiTeamBot earned: 2
+Serpentine earned: 11
+
+Tournament iteration number 2
+
+Round time left (180seconds) 
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 181.993)
+2.
+2.
+2.
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 83.958)
+Mongoose vs JordanBot : 1 - 0 (Time taken: 113.805)
+Thunder vs UasBot : 1 - 0 (Time taken: 87.983)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 3.822)
+Evan vs O_favour : 0 - 1 (Time taken: 62.166)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 18.27)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.044)
+MikePython vs UasBot : 1 - 0 (Time taken: 83.844)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 11.101)
+Thunder vs O_favour : 1 - 0 (Time taken: 176.275)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.31)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 7.409)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 35.922)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 4.095)
+MikePython vs O_favour : 1 - 0 (Time taken: 114.071)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 0 - 1 (Time taken: 181.77)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.567)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 18.465)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 3.77)
+2.
+2.
+2.
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 96.069)
+Serpentine vs Evan : 1 - 0 (Time taken: 46.692)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 1 - 0 (Time taken: 181.622)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.066)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 5.468)
+UasBot vs O_favour : 1 - 0 (Time taken: 41.118)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 0 (Time taken: 181.075)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 22.914)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 182.116)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.816)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 103.261)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.374)
+UasBot vs Thunder2020 : 0 - 0 (Time taken: 11.568)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 182.35)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 66.649)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.751)
+D_kabirov vs Evan : 0 - 1 (Time taken: 90.234)
+Round time left (180seconds) 
+
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 181.277)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.144)
+UasBot vs Mongoose : 0 - 1 (Time taken: 11.488)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 0 - 0 (Time taken: 181.788)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 171.535)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 181.208)
+Evan vs Thunder : 0 - 1 (Time taken: 169.525)
+O_favour vs Mongoose : 0 - 1 (Time taken: 172.223)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 5.124)
+UasBot vs Serpentine : 0 - 1 (Time taken: 10.974)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 90.709)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder : 0 - 1 (Time taken: 181.32)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.997)
+Evan vs MikePython : 0 - 1 (Time taken: 39.037)
+O_favour vs Serpentine : 0 - 1 (Time taken: 81.015)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.972)
+Round time left (180seconds) 
+
+UasBot vs JordanBot : 0 - 1 (Time taken: 181.414)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 140.855)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.078)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.294)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 17.462)
+O_favour vs JordanBot : 0 - 1 (Time taken: 127.158)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 3.706)
+D_kabirov vs MikePython : 1 - 0 (Time taken: 85.427)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 181.104)
+2.
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 130.026)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 45.828)
+Evan vs UasBot : 0 - 0 (Time taken: 5.439)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.12)
+D_kabirov earned: 6
+MikePython earned: 6
+Mongoose earned: 8
+Thunder earned: 9
+Thunder2020 earned: 8
+Evan earned: 4
+O_favour earned: 3
+XG earned: 1
+UasBot earned: 2
+JordanBot earned: 4
+KoffiTeamBot earned: 2
+Serpentine earned: 9
+
+Tournament iteration number 3
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 108.697)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 7.039)
+Mongoose vs JordanBot : 1 - 0 (Time taken: 146.663)
+Thunder vs UasBot : 1 - 0 (Time taken: 156.701)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 5.468)
+Evan vs O_favour : 0 - 1 (Time taken: 108.94)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 20.87)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 134.349)
+MikePython vs UasBot : 1 - 0 (Time taken: 13.453)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 4.97)
+Thunder vs O_favour : 1 - 0 (Time taken: 95.928)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.304)
+Round time left (180seconds) 
+
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 181.184)
+KoffiTeamBot vs UasBot : 0 - 1 (Time taken: 39.729)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.339)
+MikePython vs O_favour : 1 - 0 (Time taken: 94.832)
+Mongoose vs Evan : 0 - 0 (Time taken: 113.257)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.566)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 13.456)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.645)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 66.802)
+Serpentine vs Evan : 1 - 0 (Time taken: 73.92)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 1 - 0 (Time taken: 181.687)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.067)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 14.822)
+UasBot vs O_favour : 1 - 0 (Time taken: 8.44)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 1 - 0 (Time taken: 181.171)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 114.815)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 182.225)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.824)
+D_kabirov vs O_favour : 0 - 1 (Time taken: 54.945)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 5.02)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 13.981)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.455)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 78.069)
+Serpentine vs MikePython : 1 - 0 (Time taken: 152.026)
+D_kabirov vs Evan : 1 - 0 (Time taken: 126.743)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 179.364)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 5.245)
+UasBot vs Mongoose : 0 - 1 (Time taken: 107.543)
+JordanBot vs MikePython : 0 - 1 (Time taken: 124.671)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 81.724)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder2020 : 1 - 0 (Time taken: 181.087)
+Evan vs Thunder : 0 - 1 (Time taken: 172.393)
+O_favour vs Mongoose : 0 - 1 (Time taken: 74.256)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 4.08)
+UasBot vs Serpentine : 0 - 1 (Time taken: 24.661)
+2.
+2.
+2.
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 117.597)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 125.661)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.049)
+Evan vs MikePython : 0 - 1 (Time taken: 76.859)
+O_favour vs Serpentine : 0 - 1 (Time taken: 75.914)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.72)
+UasBot vs JordanBot : 0 - 1 (Time taken: 14.835)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 181.741)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.094)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 182.185)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 115.09)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 0 - 1 (Time taken: 181.926)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 3.942)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 59.366)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 181.735)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 33.962)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 182.21)
+Evan vs UasBot : 1 - 0 (Time taken: 19.877)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.254)
+D_kabirov earned: 6
+MikePython earned: 8
+Mongoose earned: 8
+Thunder earned: 9
+Thunder2020 earned: 5
+Evan earned: 2
+O_favour earned: 4
+XG earned: 2
+UasBot earned: 3
+JordanBot earned: 6
+KoffiTeamBot earned: 2
+Serpentine earned: 10
+
+Tournament iteration number 4
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 30.902)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 10.809)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.684)
+Thunder vs UasBot : 1 - 0 (Time taken: 37.077)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 4.969)
+Evan vs O_favour : 1 - 0 (Time taken: 156.815)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 29.691)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 145.415)
+MikePython vs UasBot : 1 - 0 (Time taken: 34.098)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 7.462)
+Thunder took too long to make a decision
+Thunder vs O_favour : 0 - 1 (Time taken: 2.696)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.298)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 167.237)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 38.722)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 13.767)
+MikePython vs O_favour : 1 - 0 (Time taken: 18.016)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.738)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.575)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 47.135)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.524)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 22.681)
+Serpentine vs Evan : 1 - 0 (Time taken: 57.987)
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 83.922)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.068)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.424)
+UasBot vs O_favour : 0 - 1 (Time taken: 22.472)
+JordanBot vs Evan : 0 - 1 (Time taken: 175.335)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 27.932)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 182.067)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.798)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 46.744)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.407)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 45.201)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 181.141)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Mongoose : 1 - 0 (Time taken: 181.726)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.985)
+D_kabirov vs Evan : 0 - 1 (Time taken: 28.086)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 118.73)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 5.707)
+UasBot vs Mongoose : 0 - 1 (Time taken: 46.68)
+JordanBot vs MikePython : 0 - 1 (Time taken: 169.537)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 115.913)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 171.367)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.277)
+O_favour vs Mongoose : 0 - 1 (Time taken: 138.939)
+MikePython took too long to make a decision
+XG vs MikePython : 1 - 0 (Time taken: 3.6)
+UasBot vs Serpentine : 0 - 1 (Time taken: 13.813)
+2.
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 181.924)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 137.278)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.063)
+Evan vs MikePython : 0 - 1 (Time taken: 31.783)
+O_favour vs Serpentine : 0 - 1 (Time taken: 102.808)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.088)
+UasBot vs JordanBot : 0 - 1 (Time taken: 44.535)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 1 - 0 (Time taken: 181.768)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.062)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.201)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 0 (Time taken: 122.345)
+O_favour vs JordanBot : 0 - 1 (Time taken: 44.837)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 3.156)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 52.76)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.903)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 71.65)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 181.334)
+Evan vs UasBot : 1 - 0 (Time taken: 35.71)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.732)
+D_kabirov earned: 5
+MikePython earned: 6
+Mongoose earned: 6
+Thunder earned: 7
+Thunder2020 earned: 7
+Evan earned: 5
+O_favour earned: 3
+XG earned: 2
+UasBot earned: 1
+JordanBot earned: 7
+KoffiTeamBot earned: 5
+Serpentine earned: 11
+
+Tournament iteration number 5
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 102.209)
+2.
+2.
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 101.738)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.692)
+Thunder vs UasBot : 0 - 0 (Time taken: 7.048)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 5.845)
+Evan vs O_favour : 0 - 1 (Time taken: 81.635)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 32.705)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 182.385)
+MikePython vs UasBot : 1 - 0 (Time taken: 20.078)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 7.065)
+Thunder vs O_favour : 1 - 0 (Time taken: 73.832)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.07)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 125.646)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 10.843)
+Serpentine took too long to make a decision
+Serpentine vs XG : 0 - 1 (Time taken: 10.103)
+MikePython vs O_favour : 1 - 0 (Time taken: 89.298)
+Mongoose vs Evan : 1 - 0 (Time taken: 150.386)
+Thunder vs Thunder2020 : 0 - 0 (Time taken: 13.056)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 4.231)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.098)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 72.199)
+Serpentine vs Evan : 1 - 0 (Time taken: 92.144)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.464)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.051)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 4.406)
+UasBot vs O_favour : 0 - 1 (Time taken: 36.705)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.479)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 58.565)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.851)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 182.023)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 126.325)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 5.029)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 67.719)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 181.327)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Mongoose : 1 - 0 (Time taken: 181.749)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.383)
+D_kabirov vs Evan : 0 - 1 (Time taken: 86.049)
+O_favour vs Thunder2020 : 1 - 0 (Time taken: 96.934)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 4.385)
+UasBot vs Mongoose : 0 - 1 (Time taken: 124.683)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.618)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 65.304)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 142.961)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.299)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 1 - 0 (Time taken: 181.748)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 4.442)
+UasBot vs Serpentine : 0 - 1 (Time taken: 66.654)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 97.6)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 64.201)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.056)
+Evan vs MikePython : 0 - 1 (Time taken: 63.125)
+O_favour vs Serpentine : 0 - 1 (Time taken: 49.253)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.103)
+UasBot vs JordanBot : 0 - 1 (Time taken: 52.669)
+D_kabirov vs Mongoose : 0 - 0 (Time taken: 162.796)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.136)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.146)
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 69.317)
+O_favour vs JordanBot : 1 - 0 (Time taken: 45.893)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.69)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 105.691)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 182.443)
+Thunder vs KoffiTeamBot : 0 - 0 (Time taken: 11.065)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 181.661)
+Evan vs UasBot : 1 - 0 (Time taken: 76.407)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.336)
+D_kabirov earned: 5
+MikePython earned: 6
+Mongoose earned: 3
+Thunder earned: 5
+Thunder2020 earned: 9
+Evan earned: 4
+O_favour earned: 6
+XG earned: 3
+UasBot earned: 1
+JordanBot earned: 6
+KoffiTeamBot earned: 5
+Serpentine earned: 9
+
+Tournament iteration number 6
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 64.67)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 12.007)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 181.469)
+Thunder vs UasBot : 1 - 0 (Time taken: 79.361)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 4.559)
+Evan vs O_favour : 1 - 0 (Time taken: 93.257)
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 20.679)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 139.819)
+MikePython vs UasBot : 0 - 1 (Time taken: 13.257)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.191)
+Thunder vs O_favour : 1 - 0 (Time taken: 62.985)
+Thunder2020 vs Evan : 1 - 0 (Time taken: 144.242)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 140.491)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 56.162)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 6.672)
+MikePython vs O_favour : 1 - 0 (Time taken: 94.945)
+Mongoose vs Evan : 0 - 1 (Time taken: 171.298)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.537)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 16.461)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 2.841)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 60.971)
+Round time left (180seconds) 
+
+Serpentine vs Evan : 1 - 0 (Time taken: 181.382)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.488)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.047)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 4.143)
+UasBot vs O_favour : 0 - 1 (Time taken: 21.067)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.664)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 180.718)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 0 - 1 (Time taken: 181.825)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.776)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 84.626)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.379)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 77.753)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.292)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 94.236)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.372)
+D_kabirov vs Evan : 1 - 0 (Time taken: 25.883)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 36.07)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.247)
+UasBot vs Mongoose : 0 - 1 (Time taken: 46.675)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 182.07)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 181.402)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 164.162)
+Evan vs Thunder : 0 - 1 (Time taken: 174.782)
+O_favour vs Mongoose : 0 - 1 (Time taken: 90.428)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 4.19)
+UasBot vs Serpentine : 0 - 1 (Time taken: 22.54)
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 44.603)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 160.751)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.042)
+Evan vs MikePython : 0 - 1 (Time taken: 70.928)
+Round time left (180seconds) 
+
+O_favour vs Serpentine : 0 - 1 (Time taken: 181.172)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.698)
+UasBot vs JordanBot : 1 - 0 (Time taken: 83.193)
+D_kabirov vs Mongoose : 0 - 0 (Time taken: 118.982)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.512)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.489)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 75.012)
+O_favour vs JordanBot : 0 - 1 (Time taken: 111.347)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 7.627)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 7.69)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 0 (Time taken: 181.206)
+Round time left (180seconds) 
+
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 181.346)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 60.649)
+Evan vs UasBot : 1 - 0 (Time taken: 53.147)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.925)
+D_kabirov earned: 4
+MikePython earned: 5
+Mongoose earned: 6
+Thunder earned: 9
+Thunder2020 earned: 10
+Evan earned: 6
+O_favour earned: 2
+XG earned: 2
+UasBot earned: 3
+JordanBot earned: 4
+KoffiTeamBot earned: 5
+Serpentine earned: 8
+
+Tournament iteration number 7
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 36.742)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 117.877)
+Mongoose vs JordanBot : 1 - 0 (Time taken: 24.816)
+Thunder vs UasBot : 1 - 0 (Time taken: 38.183)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 6.511)
+Evan vs O_favour : 1 - 0 (Time taken: 126.575)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 36.12)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 0 - 1 (Time taken: 181.35)
+MikePython vs UasBot : 1 - 0 (Time taken: 10.25)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.975)
+Thunder took too long to make a decision
+Thunder vs O_favour : 0 - 1 (Time taken: 2.571)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.309)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 85.902)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 68.79)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 6.249)
+MikePython vs O_favour : 0 - 1 (Time taken: 119.653)
+Mongoose vs Evan : 1 - 0 (Time taken: 167.467)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.529)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 7.44)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.254)
+2.
+2.
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 103.334)
+Serpentine vs Evan : 1 - 0 (Time taken: 166.139)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 0 (Time taken: 181.046)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.048)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 2.743)
+UasBot vs O_favour : 0 - 1 (Time taken: 17.86)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.165)
+2.
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 118.026)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.239)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.774)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 86.052)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.478)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 28.137)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 181.096)
+KoffiTeamBot vs Mongoose : 0 - 0 (Time taken: 101.862)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 182.019)
+D_kabirov vs Evan : 0 - 1 (Time taken: 63.176)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 149.959)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 5.252)
+UasBot vs Mongoose : 0 - 1 (Time taken: 46.676)
+JordanBot vs MikePython : 0 - 1 (Time taken: 73.418)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 156.241)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 71.739)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.35)
+O_favour vs Mongoose : 0 - 1 (Time taken: 156.07)
+MikePython took too long to make a decision
+XG vs MikePython : 1 - 0 (Time taken: 4.342)
+UasBot vs Serpentine : 0 - 1 (Time taken: 51.629)
+2.
+2.
+2.
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 178.282)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder : 1 - 0 (Time taken: 181.414)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 0 (Time taken: 181.078)
+Evan vs MikePython : 0 - 1 (Time taken: 17.118)
+O_favour vs Serpentine : 0 - 1 (Time taken: 10.602)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.824)
+UasBot vs JordanBot : 0 - 1 (Time taken: 60.921)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 23.851)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 0 - 1 (Time taken: 181.506)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.726)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 59.979)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 0 - 1 (Time taken: 181.191)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.602)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 142.197)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 181.8)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 91.709)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 181.474)
+Evan vs UasBot : 1 - 0 (Time taken: 40.321)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.461)
+D_kabirov earned: 6
+MikePython earned: 6
+Mongoose earned: 7
+Thunder earned: 5
+Thunder2020 earned: 6
+Evan earned: 6
+O_favour earned: 5
+XG earned: 4
+UasBot earned: 1
+JordanBot earned: 6
+KoffiTeamBot earned: 3
+Serpentine earned: 8
+
+Tournament iteration number 8
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 91.023)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 10.399)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 182.525)
+Thunder vs UasBot : 1 - 0 (Time taken: 127.792)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 5.114)
+Evan vs O_favour : 0 - 1 (Time taken: 109.087)
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 51.559)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.586)
+MikePython vs UasBot : 0 - 1 (Time taken: 37.919)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 7.165)
+Thunder vs O_favour : 1 - 0 (Time taken: 111.392)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 0 - 1 (Time taken: 181.34)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 78.916)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 16.056)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 4.967)
+MikePython vs O_favour : 1 - 0 (Time taken: 50.359)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 0 - 1 (Time taken: 181.76)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.729)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 60.977)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 6.476)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 12.85)
+Serpentine vs Evan : 1 - 0 (Time taken: 128.375)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.109)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.066)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.925)
+UasBot vs O_favour : 0 - 1 (Time taken: 64.787)
+JordanBot vs Evan : 0 - 1 (Time taken: 90.99)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 106.375)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.415)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.811)
+D_kabirov vs O_favour : 0 - 1 (Time taken: 65.581)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.241)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 65.19)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 182.39)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 181.732)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.314)
+D_kabirov vs Evan : 0 - 1 (Time taken: 117.127)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 111.585)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 5.576)
+UasBot vs Mongoose : 0 - 1 (Time taken: 72.352)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.526)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 27.026)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 55.473)
+Round time left (180seconds) 
+
+Evan vs Thunder : 1 - 0 (Time taken: 181.339)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 1 - 0 (Time taken: 181.744)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.895)
+UasBot vs Serpentine : 0 - 1 (Time taken: 17.874)
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 91.281)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 132.014)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.049)
+Evan vs MikePython : 0 - 1 (Time taken: 63.217)
+O_favour vs Serpentine : 0 - 1 (Time taken: 98.706)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.394)
+UasBot vs JordanBot : 1 - 0 (Time taken: 45.297)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 96.149)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.251)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.996)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 114.518)
+O_favour vs JordanBot : 1 - 0 (Time taken: 135.138)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.958)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 55.974)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 181.792)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 35.872)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 182.407)
+Evan vs UasBot : 1 - 0 (Time taken: 45.935)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 6.938)
+D_kabirov earned: 2
+MikePython earned: 5
+Mongoose earned: 6
+Thunder earned: 6
+Thunder2020 earned: 7
+Evan earned: 7
+O_favour earned: 7
+XG earned: 2
+UasBot earned: 3
+JordanBot earned: 6
+KoffiTeamBot earned: 5
+Serpentine earned: 10
+
+Tournament iteration number 9
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 28.67)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 75.879)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 181.151)
+Thunder vs UasBot : 1 - 0 (Time taken: 26.53)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 5.943)
+Evan vs O_favour : 1 - 0 (Time taken: 123.14)
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 51.178)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 154.648)
+MikePython vs UasBot : 1 - 0 (Time taken: 42.334)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.53)
+Thunder vs O_favour : 1 - 0 (Time taken: 37.54)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.327)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 141.332)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 52.365)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 3.835)
+MikePython vs O_favour : 1 - 0 (Time taken: 12.908)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.752)
+Thunder vs Thunder2020 : 0 - 0 (Time taken: 18.063)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 15.86)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.359)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 20.669)
+Round time left (180seconds) 
+
+Serpentine vs Evan : 1 - 0 (Time taken: 181.866)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.525)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 0 (Time taken: 181.062)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.232)
+UasBot vs O_favour : 0 - 1 (Time taken: 52.749)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 1 - 0 (Time taken: 181.137)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 28.638)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.334)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.873)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 13.854)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 5.306)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 104.164)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 181.078)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 72.353)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.975)
+D_kabirov vs Evan : 0 - 1 (Time taken: 46.731)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 63.998)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 5.467)
+Round time left (180seconds) 
+
+UasBot vs Mongoose : 0 - 1 (Time taken: 181.745)
+JordanBot vs MikePython : 0 - 1 (Time taken: 165.869)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 181.258)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 37.479)
+Evan vs Thunder : 0 - 1 (Time taken: 149.491)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 1 - 0 (Time taken: 181.754)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 6.028)
+UasBot vs Serpentine : 0 - 1 (Time taken: 56.882)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 158.139)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 151.25)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.059)
+Evan vs MikePython : 0 - 1 (Time taken: 75.419)
+O_favour vs Serpentine : 0 - 1 (Time taken: 86.604)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.909)
+UasBot vs JordanBot : 0 - 1 (Time taken: 171.757)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 86.648)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.046)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 182.486)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 67.597)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 1 - 0 (Time taken: 181.144)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 3.728)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 16.111)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 182.067)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 136.236)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 77.632)
+Evan vs UasBot : 1 - 0 (Time taken: 35.106)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.499)
+D_kabirov earned: 4
+MikePython earned: 7
+Mongoose earned: 7
+Thunder earned: 7
+Thunder2020 earned: 9
+Evan earned: 5
+O_favour earned: 4
+XG earned: 1
+UasBot earned: 1
+JordanBot earned: 5
+KoffiTeamBot earned: 4
+Serpentine earned: 10
+
+Tournament iteration number 10
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 71.94)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 16.615)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 182.277)
+Thunder vs UasBot : 1 - 0 (Time taken: 66.796)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 4.29)
+Evan vs O_favour : 0 - 1 (Time taken: 84.06)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 61.599)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.816)
+MikePython vs UasBot : 1 - 0 (Time taken: 46.155)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.446)
+Thunder vs O_favour : 1 - 0 (Time taken: 7.462)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.319)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 143.651)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 50.994)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.593)
+MikePython vs O_favour : 0 - 1 (Time taken: 37.999)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 0 - 1 (Time taken: 181.771)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.538)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 38.915)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.574)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 75.407)
+Serpentine vs Evan : 1 - 0 (Time taken: 90.257)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.514)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.044)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.264)
+UasBot vs O_favour : 0 - 1 (Time taken: 28.077)
+JordanBot vs Evan : 0 - 1 (Time taken: 166.268)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 47.522)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.603)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 1 - 0 (Time taken: 181.632)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 27.686)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.564)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 46.22)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.346)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Mongoose : 1 - 0 (Time taken: 181.743)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.862)
+D_kabirov vs Evan : 1 - 0 (Time taken: 98.068)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 140.921)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.771)
+UasBot vs Mongoose : 0 - 1 (Time taken: 70.456)
+JordanBot vs MikePython : 0 - 1 (Time taken: 43.235)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 124.523)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 89.16)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.329)
+O_favour vs Mongoose : 0 - 1 (Time taken: 107.555)
+MikePython took too long to make a decision
+XG vs MikePython : 1 - 0 (Time taken: 4.166)
+UasBot vs Serpentine : 0 - 1 (Time taken: 46.591)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 102.099)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 80.186)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.056)
+Evan vs MikePython : 0 - 1 (Time taken: 80.758)
+O_favour vs Serpentine : 0 - 1 (Time taken: 29.724)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.481)
+UasBot vs JordanBot : 0 - 1 (Time taken: 47.73)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 181.749)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.424)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 0 (Time taken: 181.349)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 53.969)
+O_favour vs JordanBot : 1 - 0 (Time taken: 170.941)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.826)
+D_kabirov vs MikePython : 1 - 0 (Time taken: 43.899)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 182.032)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 44.809)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 159.991)
+Evan vs UasBot : 1 - 0 (Time taken: 54.969)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.754)
+D_kabirov earned: 7
+MikePython earned: 5
+Mongoose earned: 5
+Thunder earned: 8
+Thunder2020 earned: 10
+Evan earned: 5
+O_favour earned: 5
+XG earned: 2
+UasBot earned: 1
+JordanBot earned: 4
+KoffiTeamBot earned: 4
+Serpentine earned: 9
+
+Tournament iteration number 11
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 68.179)
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 66.673)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 182.77)
+Thunder vs UasBot : 1 - 0 (Time taken: 64.195)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 6.788)
+Evan vs O_favour : 1 - 0 (Time taken: 8.04)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 20.474)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 182.643)
+MikePython vs UasBot : 1 - 0 (Time taken: 23.487)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 6.58)
+Thunder vs O_favour : 1 - 0 (Time taken: 21.017)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.306)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 21.756)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 11.447)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.033)
+MikePython vs O_favour : 1 - 0 (Time taken: 22.203)
+Mongoose vs Evan : 1 - 0 (Time taken: 140.858)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.552)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 32.904)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.882)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 72.195)
+Round time left (180seconds) 
+
+Serpentine vs Evan : 1 - 0 (Time taken: 181.081)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 1 - 0 (Time taken: 181.311)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.051)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 4.833)
+UasBot vs O_favour : 0 - 1 (Time taken: 42.934)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 1 - 0 (Time taken: 181.241)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 62.791)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 182.048)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 1 - 0 (Time taken: 181.332)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 60.168)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.223)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 100.468)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.279)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 23.854)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.387)
+D_kabirov vs Evan : 1 - 0 (Time taken: 68.19)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 82.373)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 5.798)
+UasBot vs Mongoose : 0 - 1 (Time taken: 48.585)
+JordanBot vs MikePython : 0 - 1 (Time taken: 134.65)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 181.656)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 88.003)
+Evan vs Thunder : 0 - 1 (Time taken: 150.227)
+O_favour vs Mongoose : 0 - 1 (Time taken: 165.606)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 6.029)
+UasBot vs Serpentine : 0 - 1 (Time taken: 14.031)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 39.451)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 97.646)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.067)
+Evan vs MikePython : 0 - 1 (Time taken: 116.42)
+O_favour vs Serpentine : 0 - 1 (Time taken: 83.085)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.798)
+UasBot vs JordanBot : 0 - 1 (Time taken: 102.362)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 171.915)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.275)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.842)
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 63.904)
+O_favour vs JordanBot : 1 - 0 (Time taken: 175.544)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.034)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 74.471)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.358)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 79.197)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 173.575)
+Evan vs UasBot : 1 - 0 (Time taken: 25.345)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 7.623)
+D_kabirov earned: 5
+MikePython earned: 9
+Mongoose earned: 9
+Thunder earned: 8
+Thunder2020 earned: 8
+Evan earned: 3
+O_favour earned: 3
+XG earned: 0
+UasBot earned: 1
+JordanBot earned: 5
+KoffiTeamBot earned: 4
+Serpentine earned: 11
+
+Tournament iteration number 12
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 121.987)
+2.
+MikePython vs KoffiTeamBot : 0 - 1 (Time taken: 98.522)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.854)
+Thunder vs UasBot : 1 - 0 (Time taken: 31.0)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 7.615)
+Evan vs O_favour : 1 - 0 (Time taken: 57.793)
+D_kabirov took too long to make a decision
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 30.575)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.611)
+MikePython vs UasBot : 1 - 0 (Time taken: 74.158)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.669)
+Thunder vs O_favour : 1 - 0 (Time taken: 74.16)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.367)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 79.28)
+KoffiTeamBot vs UasBot : 0 - 1 (Time taken: 34.935)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 8.33)
+MikePython vs O_favour : 1 - 0 (Time taken: 22.937)
+Mongoose vs Evan : 1 - 0 (Time taken: 142.909)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 1 - 0 (Time taken: 181.633)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 21.481)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.76)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 21.878)
+Serpentine vs Evan : 1 - 0 (Time taken: 135.421)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 1 - 0 (Time taken: 181.687)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.508)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.175)
+UasBot vs O_favour : 0 - 0 (Time taken: 39.731)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.147)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 42.444)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 0 - 0 (Time taken: 181.119)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.962)
+D_kabirov vs O_favour : 0 - 1 (Time taken: 63.975)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.963)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 82.031)
+JordanBot vs Thunder : 0 - 1 (Time taken: 26.546)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 50.502)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 182.039)
+D_kabirov vs Evan : 0 - 1 (Time taken: 46.351)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 83.828)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 5.388)
+UasBot vs Mongoose : 0 - 0 (Time taken: 97.116)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 0 - 1 (Time taken: 181.992)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 73.089)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 108.94)
+Evan vs Thunder : 0 - 1 (Time taken: 127.676)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 0 - 1 (Time taken: 181.775)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.809)
+UasBot vs Serpentine : 0 - 1 (Time taken: 20.205)
+2.
+2.
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 181.75)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 99.378)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 182.066)
+Evan vs MikePython : 0 - 1 (Time taken: 117.515)
+O_favour vs Serpentine : 0 - 1 (Time taken: 68.429)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 7.055)
+UasBot vs JordanBot : 0 - 1 (Time taken: 5.543)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 125.219)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.656)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.1)
+2.
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 73.947)
+O_favour vs JordanBot : 0 - 1 (Time taken: 89.703)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.209)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 53.059)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 182.052)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 50.092)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 75.27)
+Evan vs UasBot : 1 - 0 (Time taken: 59.644)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.584)
+D_kabirov earned: 3
+MikePython earned: 7
+Mongoose earned: 8
+Thunder earned: 8
+Thunder2020 earned: 6
+Evan earned: 6
+O_favour earned: 2
+XG earned: 3
+UasBot earned: 2
+JordanBot earned: 4
+KoffiTeamBot earned: 5
+Serpentine earned: 9
+
+Tournament iteration number 13
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 48.814)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 40.565)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 181.563)
+Thunder vs UasBot : 1 - 0 (Time taken: 83.455)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 3.945)
+Evan vs O_favour : 0 - 1 (Time taken: 63.429)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 70.551)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 0 - 1 (Time taken: 181.88)
+MikePython vs UasBot : 1 - 0 (Time taken: 49.851)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 2.662)
+Thunder vs O_favour : 1 - 0 (Time taken: 152.541)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.098)
+Round time left (180seconds) 
+
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 181.102)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 4.093)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 3.907)
+MikePython vs O_favour : 1 - 0 (Time taken: 103.308)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.305)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.069)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 3.483)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 2.825)
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 21.964)
+Serpentine vs Evan : 1 - 0 (Time taken: 43.959)
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 113.717)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 182.076)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 2.486)
+UasBot vs O_favour : 1 - 0 (Time taken: 7.332)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 1 - 0 (Time taken: 181.232)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 69.737)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.887)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 1 - 0 (Time taken: 182.187)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 68.139)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 2.904)
+Round time left (180seconds) 
+
+UasBot vs Thunder2020 : 1 - 0 (Time taken: 183.879)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.308)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 89.173)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 185.852)
+D_kabirov vs Evan : 0 - 1 (Time taken: 100.413)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 137.224)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.798)
+UasBot vs Mongoose : 0 - 1 (Time taken: 35.387)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.517)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 30.29)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 107.276)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.481)
+O_favour vs Mongoose : 0 - 1 (Time taken: 63.024)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.408)
+UasBot vs Serpentine : 0 - 1 (Time taken: 41.496)
+2.
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 174.418)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 85.574)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 182.011)
+Round time left (180seconds) 
+
+Evan vs MikePython : 1 - 0 (Time taken: 181.178)
+O_favour vs Serpentine : 0 - 1 (Time taken: 15.945)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 4.252)
+UasBot vs JordanBot : 0 - 1 (Time taken: 121.186)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 181.32)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.093)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.67)
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 69.332)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 0 - 0 (Time taken: 181.516)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.447)
+D_kabirov vs MikePython : 1 - 0 (Time taken: 44.455)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.172)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 45.657)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 181.272)
+Evan vs UasBot : 1 - 0 (Time taken: 34.967)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.016)
+D_kabirov earned: 6
+MikePython earned: 5
+Mongoose earned: 7
+Thunder earned: 8
+Thunder2020 earned: 9
+Evan earned: 4
+O_favour earned: 2
+XG earned: 1
+UasBot earned: 3
+JordanBot earned: 5
+KoffiTeamBot earned: 5
+Serpentine earned: 10
+
+Tournament iteration number 14
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 102.651)
+2.
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 111.052)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.675)
+Thunder vs UasBot : 0 - 0 (Time taken: 44.747)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 5.544)
+Evan vs O_favour : 1 - 0 (Time taken: 77.478)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 24.612)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 54.739)
+MikePython vs UasBot : 1 - 0 (Time taken: 61.603)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 5.753)
+Thunder vs O_favour : 1 - 0 (Time taken: 77.857)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.527)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 160.498)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 10.583)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 4.6)
+MikePython vs O_favour : 1 - 0 (Time taken: 78.514)
+Mongoose vs Evan : 0 - 1 (Time taken: 177.628)
+Thunder vs Thunder2020 : 0 - 0 (Time taken: 28.786)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 55.335)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 5.56)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 7.944)
+Serpentine vs Evan : 1 - 0 (Time taken: 161.164)
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 134.598)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.771)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 5.081)
+UasBot vs O_favour : 1 - 0 (Time taken: 40.882)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.864)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 108.945)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.503)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.803)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 71.042)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.914)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 22.011)
+JordanBot vs Thunder : 0 - 1 (Time taken: 144.187)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 160.299)
+Serpentine vs MikePython : 1 - 0 (Time taken: 133.195)
+D_kabirov vs Evan : 0 - 1 (Time taken: 85.024)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 87.512)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 3.639)
+UasBot vs Mongoose : 0 - 1 (Time taken: 39.183)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.721)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 37.371)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 7.642)
+Evan vs Thunder : 0 - 1 (Time taken: 173.771)
+O_favour vs Mongoose : 0 - 1 (Time taken: 120.251)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 6.802)
+UasBot vs Serpentine : 0 - 1 (Time taken: 87.056)
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 181.915)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 116.051)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.643)
+Evan vs MikePython : 0 - 1 (Time taken: 134.406)
+O_favour vs Serpentine : 0 - 1 (Time taken: 50.828)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 4.786)
+UasBot vs JordanBot : 0 - 1 (Time taken: 72.486)
+Round time left (180seconds) 
+
+D_kabirov vs Mongoose : 1 - 0 (Time taken: 181.254)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 0 - 1 (Time taken: 181.796)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.611)
+2.
+2.
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 86.378)
+Round time left (180seconds) 
+
+O_favour vs JordanBot : 0 - 0 (Time taken: 181.531)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.593)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 140.108)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.688)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 136.417)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 181.216)
+Evan vs UasBot : 1 - 0 (Time taken: 35.586)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.425)
+D_kabirov earned: 5
+MikePython earned: 7
+Mongoose earned: 5
+Thunder earned: 7
+Thunder2020 earned: 8
+Evan earned: 7
+O_favour earned: 2
+XG earned: 2
+UasBot earned: 2
+JordanBot earned: 6
+KoffiTeamBot earned: 2
+Serpentine earned: 10
+
+Tournament iteration number 15
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 95.226)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 8.336)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 0 - 1 (Time taken: 181.385)
+Thunder vs UasBot : 1 - 0 (Time taken: 98.651)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 4.819)
+Evan vs O_favour : 0 - 1 (Time taken: 80.505)
+2.
+2.
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 41.275)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 181.618)
+MikePython vs UasBot : 1 - 0 (Time taken: 21.913)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 6.15)
+Thunder vs O_favour : 1 - 0 (Time taken: 85.248)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 0 - 1 (Time taken: 181.077)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 52.712)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 3.876)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.052)
+MikePython vs O_favour : 1 - 0 (Time taken: 39.7)
+Mongoose vs Evan : 1 - 0 (Time taken: 76.346)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 182.043)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 53.274)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 3.155)
+2.
+KoffiTeamBot vs O_favour : 1 - 0 (Time taken: 82.185)
+Serpentine vs Evan : 1 - 0 (Time taken: 118.703)
+MikePython vs Thunder2020 : 1 - 0 (Time taken: 92.205)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.661)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.65)
+UasBot vs O_favour : 0 - 1 (Time taken: 49.624)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 0 (Time taken: 181.189)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 45.502)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.393)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.739)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 90.306)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.062)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 70.413)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 181.138)
+KoffiTeamBot vs Mongoose : 0 - 0 (Time taken: 156.503)
+Serpentine vs MikePython : 0 - 1 (Time taken: 44.996)
+D_kabirov vs Evan : 0 - 1 (Time taken: 68.07)
+Round time left (180seconds) 
+
+O_favour vs Thunder2020 : 0 - 0 (Time taken: 181.477)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 4.145)
+UasBot vs Mongoose : 0 - 1 (Time taken: 60.185)
+JordanBot vs MikePython : 0 - 1 (Time taken: 150.513)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 164.57)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 67.754)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.505)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 1 - 0 (Time taken: 181.341)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.954)
+UasBot vs Serpentine : 0 - 1 (Time taken: 45.277)
+2.
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 181.132)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 103.161)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.611)
+Evan vs MikePython : 0 - 1 (Time taken: 49.886)
+O_favour vs Serpentine : 0 - 1 (Time taken: 51.056)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.672)
+UasBot vs JordanBot : 0 - 1 (Time taken: 75.434)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 129.749)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 0 - 1 (Time taken: 181.428)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 1 - 0 (Time taken: 181.122)
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 60.764)
+O_favour vs JordanBot : 1 - 0 (Time taken: 140.357)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.888)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 36.422)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.041)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 51.137)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 108.945)
+Evan vs UasBot : 1 - 0 (Time taken: 39.858)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.032)
+D_kabirov earned: 3
+MikePython earned: 10
+Mongoose earned: 7
+Thunder earned: 7
+Thunder2020 earned: 7
+Evan earned: 4
+O_favour earned: 5
+XG earned: 0
+UasBot earned: 1
+JordanBot earned: 4
+KoffiTeamBot earned: 6
+Serpentine earned: 9
+
+Tournament iteration number 16
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 94.474)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 41.487)
+Mongoose vs JordanBot : 1 - 0 (Time taken: 161.295)
+Thunder vs UasBot : 1 - 0 (Time taken: 35.373)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 4.026)
+Evan vs O_favour : 1 - 0 (Time taken: 59.164)
+D_kabirov vs KoffiTeamBot : 0 - 1 (Time taken: 20.173)
+Round time left (180seconds) 
+
+Serpentine vs JordanBot : 1 - 0 (Time taken: 182.109)
+MikePython vs UasBot : 1 - 0 (Time taken: 48.837)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.33)
+Round time left (180seconds) 
+
+Thunder vs O_favour : 0 - 0 (Time taken: 181.387)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.049)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 17.34)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 3.079)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.503)
+MikePython vs O_favour : 1 - 0 (Time taken: 18.681)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.253)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 182.204)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 47.409)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.092)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 68.152)
+Serpentine vs Evan : 1 - 0 (Time taken: 92.646)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.474)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 1 - 0 (Time taken: 181.204)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.354)
+UasBot vs O_favour : 0 - 1 (Time taken: 30.141)
+JordanBot vs Evan : 0 - 1 (Time taken: 76.784)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 53.703)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.808)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.673)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 64.03)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.383)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 41.977)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 1 - 0 (Time taken: 182.288)
+Round time left (180seconds) 
+
+KoffiTeamBot vs Mongoose : 1 - 0 (Time taken: 181.231)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.5)
+D_kabirov vs Evan : 0 - 0 (Time taken: 120.541)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 170.586)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 5.968)
+UasBot vs Mongoose : 0 - 1 (Time taken: 99.34)
+JordanBot vs MikePython : 0 - 1 (Time taken: 108.71)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 19.676)
+D_kabirov vs Thunder2020 : 0 - 0 (Time taken: 127.045)
+Evan vs Thunder : 0 - 1 (Time taken: 46.587)
+O_favour vs Mongoose : 0 - 1 (Time taken: 126.946)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 4.783)
+UasBot vs Serpentine : 0 - 1 (Time taken: 21.394)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 151.97)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 90.408)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 1 - 0 (Time taken: 181.653)
+Evan vs MikePython : 0 - 1 (Time taken: 26.501)
+Round time left (180seconds) 
+
+O_favour vs Serpentine : 0 - 1 (Time taken: 181.29)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 2.987)
+UasBot vs JordanBot : 0 - 1 (Time taken: 11.072)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 74.459)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.074)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.072)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 0 (Time taken: 152.107)
+O_favour vs JordanBot : 0 - 1 (Time taken: 132.905)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.24)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 40.685)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 0 (Time taken: 182.264)
+Round time left (180seconds) 
+
+Thunder vs KoffiTeamBot : 0 - 1 (Time taken: 181.528)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 181.299)
+Evan vs UasBot : 1 - 0 (Time taken: 48.581)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 4.331)
+D_kabirov earned: 4
+MikePython earned: 7
+Mongoose earned: 7
+Thunder earned: 5
+Thunder2020 earned: 8
+Evan earned: 4
+O_favour earned: 3
+XG earned: 1
+UasBot earned: 1
+JordanBot earned: 6
+KoffiTeamBot earned: 5
+Serpentine earned: 10
+
+Tournament iteration number 17
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 96.493)
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 38.728)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 182.349)
+Thunder vs UasBot : 1 - 0 (Time taken: 34.874)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 5.816)
+Evan vs O_favour : 0 - 1 (Time taken: 87.251)
+2.
+2.
+2.
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 73.289)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 58.289)
+MikePython vs UasBot : 1 - 0 (Time taken: 45.033)
+XG took too long to make a decision
+Mongoose vs XG : 1 - 0 (Time taken: 5.594)
+Thunder vs O_favour : 1 - 0 (Time taken: 74.055)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 1 - 0 (Time taken: 181.027)
+D_kabirov vs JordanBot : 0 - 1 (Time taken: 81.634)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 20.946)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 3.209)
+MikePython vs O_favour : 0 - 1 (Time taken: 99.71)
+Mongoose vs Evan : 1 - 0 (Time taken: 152.742)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 0 (Time taken: 181.97)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 14.048)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.47)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 29.884)
+Serpentine vs Evan : 1 - 0 (Time taken: 84.196)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.406)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.643)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 5.639)
+UasBot vs O_favour : 0 - 1 (Time taken: 32.137)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.493)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 92.577)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 0 - 1 (Time taken: 181.559)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.758)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 22.199)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 4.1)
+UasBot vs Thunder2020 : 0 - 1 (Time taken: 143.365)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 182.15)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 93.547)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 0 - 1 (Time taken: 181.198)
+D_kabirov vs Evan : 1 - 0 (Time taken: 39.267)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 80.525)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 4.317)
+UasBot vs Mongoose : 0 - 1 (Time taken: 140.24)
+JordanBot vs MikePython : 0 - 1 (Time taken: 133.797)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 159.574)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 71.763)
+Round time left (180seconds) 
+
+Evan vs Thunder : 1 - 0 (Time taken: 181.06)
+Round time left (180seconds) 
+
+O_favour vs Mongoose : 0 - 1 (Time taken: 181.271)
+MikePython took too long to make a decision
+XG vs MikePython : 1 - 0 (Time taken: 4.417)
+UasBot vs Serpentine : 0 - 1 (Time taken: 47.652)
+2.
+Round time left (180seconds) 
+
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 181.225)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder : 1 - 0 (Time taken: 181.04)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.675)
+Evan vs MikePython : 0 - 1 (Time taken: 85.866)
+O_favour vs Serpentine : 0 - 1 (Time taken: 174.43)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.718)
+UasBot vs JordanBot : 0 - 1 (Time taken: 74.048)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 98.327)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 0 - 1 (Time taken: 181.45)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 181.431)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 174.59)
+O_favour vs JordanBot : 1 - 0 (Time taken: 145.463)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.81)
+D_kabirov vs MikePython : 1 - 0 (Time taken: 64.784)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.499)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 93.873)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 182.012)
+Evan vs UasBot : 1 - 0 (Time taken: 41.099)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.07)
+D_kabirov earned: 7
+MikePython earned: 6
+Mongoose earned: 9
+Thunder earned: 6
+Thunder2020 earned: 7
+Evan earned: 4
+O_favour earned: 6
+XG earned: 3
+UasBot earned: 1
+JordanBot earned: 4
+KoffiTeamBot earned: 3
+Serpentine earned: 9
+
+Tournament iteration number 18
+
+Round time left (180seconds) 
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 181.89)
+2.
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 64.998)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 181.672)
+Thunder vs UasBot : 1 - 0 (Time taken: 21.52)
+XG took too long to make a decision
+Thunder2020 vs XG : 1 - 0 (Time taken: 14.406)
+Evan vs O_favour : 0 - 1 (Time taken: 75.008)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 83.151)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 119.57)
+MikePython vs UasBot : 1 - 0 (Time taken: 62.438)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.737)
+Thunder vs O_favour : 1 - 0 (Time taken: 58.547)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 0 - 0 (Time taken: 181.508)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 85.658)
+KoffiTeamBot vs UasBot : 1 - 0 (Time taken: 4.689)
+XG took too long to make a decision
+Serpentine vs XG : 1 - 0 (Time taken: 5.532)
+MikePython vs O_favour : 1 - 0 (Time taken: 22.314)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 1 - 0 (Time taken: 181.294)
+Round time left (180seconds) 
+
+Thunder vs Thunder2020 : 0 - 1 (Time taken: 181.033)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 7.545)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 4.222)
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 67.679)
+Serpentine vs Evan : 1 - 0 (Time taken: 90.772)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.479)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 1 (Time taken: 181.665)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.398)
+UasBot vs O_favour : 0 - 1 (Time taken: 25.012)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 1 - 0 (Time taken: 181.644)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 45.375)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.572)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.701)
+D_kabirov vs O_favour : 0 - 1 (Time taken: 27.477)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 3.248)
+UasBot vs Thunder2020 : 0 - 0 (Time taken: 11.318)
+Round time left (180seconds) 
+
+JordanBot vs Thunder : 0 - 1 (Time taken: 182.236)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 146.983)
+Round time left (180seconds) 
+
+Serpentine vs MikePython : 1 - 0 (Time taken: 181.166)
+D_kabirov vs Evan : 1 - 0 (Time taken: 27.454)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 40.962)
+XG took too long to make a decision
+XG vs Thunder : 0 - 1 (Time taken: 9.9)
+UasBot vs Mongoose : 0 - 1 (Time taken: 40.159)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.234)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 32.347)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 180.016)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.027)
+O_favour vs Mongoose : 0 - 1 (Time taken: 60.138)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.938)
+UasBot vs Serpentine : 0 - 1 (Time taken: 54.685)
+JordanBot vs KoffiTeamBot : 0 - 1 (Time taken: 116.299)
+Round time left (180seconds) 
+
+D_kabirov vs Thunder : 0 - 1 (Time taken: 181.525)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.586)
+Round time left (180seconds) 
+
+Evan vs MikePython : 1 - 0 (Time taken: 181.185)
+O_favour vs Serpentine : 0 - 1 (Time taken: 60.142)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 3.656)
+UasBot vs JordanBot : 0 - 1 (Time taken: 10.879)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 128.796)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.584)
+Round time left (180seconds) 
+
+Thunder2020 vs Serpentine : 0 - 0 (Time taken: 181.397)
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+2.
+Evan vs KoffiTeamBot : 0 - 1 (Time taken: 90.718)
+O_favour vs JordanBot : 0 - 1 (Time taken: 152.262)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 2.923)
+D_kabirov vs MikePython : 1 - 0 (Time taken: 111.286)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 0 - 1 (Time taken: 181.3)
+2.
+2.
+2.
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 120.412)
+Thunder2020 vs JordanBot : 1 - 0 (Time taken: 144.332)
+Evan vs UasBot : 0 - 1 (Time taken: 30.7)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.735)
+D_kabirov earned: 6
+MikePython earned: 4
+Mongoose earned: 8
+Thunder earned: 9
+Thunder2020 earned: 7
+Evan earned: 2
+O_favour earned: 5
+XG earned: 1
+UasBot earned: 2
+JordanBot earned: 5
+KoffiTeamBot earned: 4
+Serpentine earned: 10
+
+Tournament iteration number 19
+
+D_kabirov vs Serpentine : 0 - 1 (Time taken: 41.399)
+MikePython vs KoffiTeamBot : 1 - 0 (Time taken: 48.254)
+Round time left (180seconds) 
+
+Mongoose vs JordanBot : 1 - 0 (Time taken: 182.614)
+Thunder vs UasBot : 1 - 0 (Time taken: 93.384)
+Thunder2020 took too long to make a decision
+Thunder2020 vs XG : 0 - 1 (Time taken: 6.611)
+O_favour took too long to make a decision
+Evan vs O_favour : 1 - 0 (Time taken: 56.408)
+D_kabirov vs KoffiTeamBot : 1 - 0 (Time taken: 10.59)
+Serpentine vs JordanBot : 1 - 0 (Time taken: 180.606)
+MikePython vs UasBot : 1 - 0 (Time taken: 25.572)
+Mongoose took too long to make a decision
+Mongoose vs XG : 0 - 1 (Time taken: 6.224)
+Thunder vs O_favour : 1 - 0 (Time taken: 90.965)
+Round time left (180seconds) 
+
+Thunder2020 vs Evan : 0 - 1 (Time taken: 181.065)
+D_kabirov vs JordanBot : 1 - 0 (Time taken: 163.837)
+KoffiTeamBot vs UasBot : 0 - 1 (Time taken: 43.34)
+Serpentine took too long to make a decision
+Serpentine vs XG : 0 - 1 (Time taken: 6.708)
+MikePython took too long to make a decision
+MikePython vs O_favour : 0 - 1 (Time taken: 3.978)
+Round time left (180seconds) 
+
+Mongoose vs Evan : 0 - 1 (Time taken: 181.403)
+Thunder vs Thunder2020 : 0 - 0 (Time taken: 114.159)
+D_kabirov vs UasBot : 1 - 0 (Time taken: 16.272)
+XG took too long to make a decision
+JordanBot vs XG : 1 - 0 (Time taken: 3.513)
+2.
+2.
+2.
+KoffiTeamBot vs O_favour : 0 - 1 (Time taken: 89.66)
+Serpentine vs Evan : 1 - 0 (Time taken: 91.564)
+Round time left (180seconds) 
+
+MikePython vs Thunder2020 : 0 - 1 (Time taken: 181.321)
+Round time left (180seconds) 
+
+Mongoose vs Thunder : 0 - 0 (Time taken: 181.672)
+XG took too long to make a decision
+D_kabirov vs XG : 1 - 0 (Time taken: 3.116)
+UasBot vs O_favour : 0 - 1 (Time taken: 30.486)
+Round time left (180seconds) 
+
+JordanBot vs Evan : 0 - 1 (Time taken: 181.279)
+KoffiTeamBot vs Thunder2020 : 0 - 1 (Time taken: 101.741)
+Round time left (180seconds) 
+
+Serpentine vs Thunder : 1 - 0 (Time taken: 181.962)
+Round time left (180seconds) 
+
+MikePython vs Mongoose : 0 - 1 (Time taken: 181.719)
+D_kabirov vs O_favour : 1 - 0 (Time taken: 36.592)
+XG took too long to make a decision
+XG vs Evan : 0 - 1 (Time taken: 2.672)
+Round time left (180seconds) 
+
+UasBot vs Thunder2020 : 1 - 0 (Time taken: 181.085)
+JordanBot vs Thunder : 0 - 1 (Time taken: 53.823)
+KoffiTeamBot vs Mongoose : 0 - 1 (Time taken: 87.956)
+Serpentine vs MikePython : 1 - 0 (Time taken: 128.427)
+D_kabirov vs Evan : 0 - 1 (Time taken: 93.537)
+O_favour vs Thunder2020 : 0 - 1 (Time taken: 93.691)
+Thunder took too long to make a decision
+XG vs Thunder : 1 - 0 (Time taken: 4.795)
+UasBot vs Mongoose : 0 - 1 (Time taken: 115.436)
+Round time left (180seconds) 
+
+JordanBot vs MikePython : 1 - 0 (Time taken: 181.12)
+KoffiTeamBot vs Serpentine : 0 - 1 (Time taken: 53.372)
+D_kabirov vs Thunder2020 : 0 - 1 (Time taken: 59.626)
+Round time left (180seconds) 
+
+Evan vs Thunder : 0 - 1 (Time taken: 181.038)
+O_favour vs Mongoose : 0 - 1 (Time taken: 22.042)
+XG took too long to make a decision
+XG vs MikePython : 0 - 1 (Time taken: 3.757)
+UasBot vs Serpentine : 0 - 1 (Time taken: 13.457)
+JordanBot vs KoffiTeamBot : 1 - 0 (Time taken: 129.37)
+D_kabirov vs Thunder : 0 - 1 (Time taken: 75.279)
+Round time left (180seconds) 
+
+Thunder2020 vs Mongoose : 0 - 1 (Time taken: 181.633)
+Evan vs MikePython : 1 - 0 (Time taken: 175.102)
+O_favour vs Serpentine : 0 - 1 (Time taken: 33.57)
+XG took too long to make a decision
+XG vs KoffiTeamBot : 0 - 1 (Time taken: 7.842)
+UasBot vs JordanBot : 0 - 1 (Time taken: 67.943)
+D_kabirov vs Mongoose : 0 - 1 (Time taken: 22.989)
+Round time left (180seconds) 
+
+Thunder vs MikePython : 1 - 0 (Time taken: 181.627)
+Thunder2020 vs Serpentine : 0 - 1 (Time taken: 155.41)
+Evan vs KoffiTeamBot : 1 - 0 (Time taken: 76.131)
+O_favour vs JordanBot : 0 - 1 (Time taken: 121.936)
+XG took too long to make a decision
+XG vs UasBot : 0 - 1 (Time taken: 4.304)
+D_kabirov vs MikePython : 0 - 1 (Time taken: 43.761)
+Round time left (180seconds) 
+
+Mongoose vs Serpentine : 1 - 0 (Time taken: 182.103)
+Thunder vs KoffiTeamBot : 1 - 0 (Time taken: 109.256)
+Round time left (180seconds) 
+
+Thunder2020 vs JordanBot : 0 - 1 (Time taken: 181.974)
+Evan vs UasBot : 1 - 0 (Time taken: 71.757)
+XG took too long to make a decision
+O_favour vs XG : 1 - 0 (Time taken: 3.256)
+D_kabirov earned: 5
+MikePython earned: 4
+Mongoose earned: 8
+Thunder earned: 7
+Thunder2020 earned: 4
+Evan earned: 9
+O_favour earned: 4
+XG earned: 4
+UasBot earned: 3
+JordanBot earned: 6
+KoffiTeamBot earned: 1
+Serpentine earned: 9
+
+D_kabirov vs. MikePython: 5 - 15
+
+D_kabirov vs. Mongoose: 2 - 16
+
+D_kabirov vs. Thunder: 2 - 17
+
+D_kabirov vs. Thunder2020: 1 - 18
+
+D_kabirov vs. Evan: 7 - 12
+
+D_kabirov vs. O_favour: 15 - 5
+
+D_kabirov vs. XG: 20 - 0
+
+D_kabirov vs. UasBot: 20 - 0
+
+D_kabirov vs. JordanBot: 12 - 8
+
+D_kabirov vs. KoffiTeamBot: 14 - 6
+
+D_kabirov vs. Serpentine: 0 - 20
+
+MikePython vs. Mongoose: 4 - 16
+
+MikePython vs. Thunder: 4 - 15
+
+MikePython vs. Thunder2020: 5 - 14
+
+MikePython vs. Evan: 16 - 4
+
+MikePython vs. O_favour: 15 - 5
+
+MikePython vs. XG: 15 - 5
+
+MikePython vs. UasBot: 18 - 2
+
+MikePython vs. JordanBot: 11 - 7
+
+MikePython vs. KoffiTeamBot: 19 - 1
+
+MikePython vs. Serpentine: 2 - 18
+
+Mongoose vs. Thunder: 9 - 9
+
+Mongoose vs. Thunder2020: 10 - 9
+
+Mongoose vs. Evan: 12 - 6
+
+Mongoose vs. O_favour: 16 - 4
+
+Mongoose vs. XG: 6 - 14
+
+Mongoose vs. UasBot: 19 - 0
+
+Mongoose vs. JordanBot: 12 - 8
+
+Mongoose vs. KoffiTeamBot: 14 - 4
+
+Mongoose vs. Serpentine: 8 - 10
+
+Thunder vs. Thunder2020: 6 - 9
+
+Thunder vs. Evan: 18 - 2
+
+Thunder vs. O_favour: 17 - 2
+
+Thunder vs. XG: 13 - 7
+
+Thunder vs. UasBot: 18 - 0
+
+Thunder vs. JordanBot: 13 - 7
+
+Thunder vs. KoffiTeamBot: 18 - 1
+
+Thunder vs. Serpentine: 3 - 16
+
+Thunder2020 vs. Evan: 16 - 3
+
+Thunder2020 vs. O_favour: 18 - 1
+
+Thunder2020 vs. XG: 12 - 8
+
+Thunder2020 vs. UasBot: 16 - 2
+
+Thunder2020 vs. JordanBot: 14 - 6
+
+Thunder2020 vs. KoffiTeamBot: 20 - 0
+
+Thunder2020 vs. Serpentine: 6 - 12
+
+Evan vs. O_favour: 10 - 10
+
+Evan vs. XG: 20 - 0
+
+Evan vs. UasBot: 18 - 1
+
+Evan vs. JordanBot: 12 - 5
+
+Evan vs. KoffiTeamBot: 9 - 9
+
+Evan vs. Serpentine: 0 - 20
+
+O_favour vs. XG: 20 - 0
+
+O_favour vs. UasBot: 15 - 4
+
+O_favour vs. JordanBot: 9 - 9
+
+O_favour vs. KoffiTeamBot: 11 - 9
+
+O_favour vs. Serpentine: 0 - 20
+
+XG vs. UasBot: 0 - 20
+
+XG vs. JordanBot: 0 - 20
+
+XG vs. KoffiTeamBot: 0 - 20
+
+XG vs. Serpentine: 2 - 18
+
+UasBot vs. JordanBot: 2 - 18
+
+UasBot vs. KoffiTeamBot: 4 - 16
+
+UasBot vs. Serpentine: 0 - 20
+
+JordanBot vs. KoffiTeamBot: 12 - 8
+
+JordanBot vs. Serpentine: 2 - 18
+
+KoffiTeamBot vs. Serpentine: 0 - 20
